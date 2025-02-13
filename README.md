@@ -61,7 +61,7 @@
 
 ```bash
 # 克隆项目
-git clone [项目地址]
+git clone https://github.com/1eez/Financial-Freedom.git
 cd Financial-Freedom
 
 # 创建虚拟环境
